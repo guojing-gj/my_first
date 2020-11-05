@@ -1,0 +1,8 @@
+prefix=/home/guojing/work/work_ws/devel
+
+Name: test_work
+Description: Description of test_work
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
